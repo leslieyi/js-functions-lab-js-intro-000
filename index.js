@@ -4,5 +4,10 @@ function happyHolidays () {
 }
 
 function happyHolidaysTo() {
+  var name = "Baudouin"
+  return `Happy holidays, ${name}`
+}
+
+function happyCustomHolidayTo() {
   
 }
